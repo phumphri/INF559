@@ -1,2 +1,2 @@
-# Updated again and again
+# Test
 print("Boffo!")
